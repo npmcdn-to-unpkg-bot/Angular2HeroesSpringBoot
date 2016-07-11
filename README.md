@@ -1,7 +1,7 @@
 "# Angular2SpringBoot" 
 
-Host Angular 2 quickstart app in Spring Boot
-https://angular.io/docs/ts/latest/quickstart.html
+Host Angular 2 Heroes tutorial app in Spring Boot
+https://angular.io/docs/ts/latest/tutorial/
 
 Installation:
 1. Install JDK 1.8
